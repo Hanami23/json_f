@@ -1,0 +1,68 @@
+{
+  "justificaciones": [
+    {
+      "rut": "10.974.108-1",
+      "seccion": "006D",
+      "nombre": "Juanito loquito Huerfanito",
+      "correo": "Ju.loquitoH@duocuc.cl",
+      "telefono": "+56 9-56954908",
+      "justificacion": "estimado profesor no podre asistir ala clase de programacion debido a que tuve una urgencia medica",
+      "id": "90c0",
+      "comentario": "Mmmm"
+    },
+    {
+      "rut": "21.694.290-k",
+      "seccion": "011D",
+      "nombre": "hugo Jugo Vasquez",
+      "correo": "Hu.JugoV@duocuc.cl",
+      "telefono": "+56 9-894974695",
+      "justificacion": "estimaddo profesor no podre asistir ala clase porque tuve que llevar a mi perro al veterinario",
+      "id": "1c40",
+      "comentario": ""
+    }
+  ],
+  "clases": [
+    {
+      "id": "001",
+      "seccion": "006D",
+      "clase": "programacion de aplicaciones moviles",
+      "profesor": "Juanito loquito Huerfanito",
+      "horario": "16:00 / 17:20",
+      "sala": "205"
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "1",
+      "username": "usuario1",
+      "rut": "10.974.108-1",
+      "password": "duoc1234",
+      "email": "usuario1@mail.cl",
+      "isactive": true
+    },
+    {
+      "id": "2664",
+      "username": "se.cuevast@gmail.com",
+      "rut": "21.426.898-1",
+      "email": "se.cuevast@gmail.com",
+      "password": "seba1234",
+      "isactive": true
+    },
+    {
+      "id": "27be",
+      "username": "hanami",
+      "rut": "21.366.800-k",
+      "email": "seba@gmail.com",
+      "password": "seba1234",
+      "isactive": true
+    }
+  ],
+  "qr": [
+    {
+      "id": "4f77",
+      "nomclase": "programacion aplicaciones moviles",
+      "profesor": "Juanito loquito Huerfanito",
+      "fecha": "lunes 16:00"
+    }
+  ]
+}
